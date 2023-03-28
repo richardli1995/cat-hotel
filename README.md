@@ -9,6 +9,7 @@
 * 後端
   * JAVA Spring Boot
 # 系統環境
+  * 伺服器環境: Tomcat
   * 資料庫環境: MySQL XXXXX
 # 開發環境
   * Eclipse
