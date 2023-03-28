@@ -9,6 +9,6 @@
 * 後端
   * JAVA Spring Boot
 # 系統環境
-  *資料庫環境: MySQL XXXXX
+  * 資料庫環境: MySQL XXXXX
   
   
