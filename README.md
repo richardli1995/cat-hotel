@@ -7,7 +7,7 @@
   * JS
   * Bootstrap
 * 後端
-  * JAVA Spring Boot
+  * JAVA Spring MVC
 # 系統環境
   * 伺服器環境: Tomcat
   * 資料庫環境: MySQL XXXXX
